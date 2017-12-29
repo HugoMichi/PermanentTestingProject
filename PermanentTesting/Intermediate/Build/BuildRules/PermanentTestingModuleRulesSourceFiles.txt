@@ -1,0 +1,3 @@
+D:\UnrealProjects\Projects\PermanentTestingProject\PermanentTesting\Source\PermanentTesting\PermanentTesting.Build.cs
+D:\UnrealProjects\Projects\PermanentTestingProject\PermanentTesting\Source\PermanentTesting.Target.cs
+D:\UnrealProjects\Projects\PermanentTestingProject\PermanentTesting\Source\PermanentTestingEditor.Target.cs
